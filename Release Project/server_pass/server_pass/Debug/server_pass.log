@@ -1,0 +1,6 @@
+﻿  server_pass.cpp
+C:\Users\1\Desktop\Проект\2\server_pass\server_pass\server_pass.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\1\Desktop\Проект\2\server_pass\server_pass\server_pass.cpp(129,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Desktop\Проект\2\server_pass\server_pass\server_pass.cpp(161,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Desktop\Проект\2\server_pass\server_pass\server_pass.cpp(52,9): warning C4101: massege: неиспользованная локальная переменная
+  server_pass.vcxproj -> C:\Users\1\Desktop\Проект\2\server_pass\Debug\server_pass.exe
